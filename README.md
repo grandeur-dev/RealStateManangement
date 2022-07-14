@@ -6,4 +6,4 @@
 
 
 # Steps before using
-#### Enter Username , password and database name of Mysql: [here]()
+#### Enter Username , password and database name of Mysql: [here](https://github.com/grandeur-dev/RealStateManangement/blob/main/connection/connection.js)
